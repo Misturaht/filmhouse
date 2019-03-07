@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .carousel{
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+ }
+ hr{
+    color: rgba(255, 255, 255, 0.6) !important; 
+ }
+
+ 
+ p{
+    color: rgba(255, 255, 255, 0.6) !important; 
+ }
+ .btn:hover{
+     background-color:#c323da; 
+     color:white;
+ }
+ h4{
+     color:#c323da ;
+     font-family: 'Laila', serif; 
+ }
+ 
+ h2{
+    color: white; 
+    font-family: 'Laila', serif; 
+ }
+ h2:hover{
+    color: #e43091 !important; 
+ }
+ h3{
+    color: rgba(228, 48, 145, 0.8) !important; 
+    font-family: 'Laila', serif;
+ }
+ .side h6{
+    font-family: 'Laila', serif; 
+ }
+
+h6{
+    color: rgba(255, 255, 255, 0.4) !important; 
+
+}
+hr.line{
+    border-top: 1px solid  rgba(255, 255, 255, 0.4);
+  }
+
+ .card{
+     background-color: black;
+     margin-top:20px;
+ }
+ section{
+    margin-top:50px;
+ }
+
+ .carousel img{
+     height: 500px;
+ }
+ .navbar{
+    background-color: black !important;
+ }
+
+ .nav-link:hover {
+    color: #e43091 !important;
+  }
+  
+  .nav-link:active {
+    color: rgb(153, 51, 136);
+  } 
+ 
+ .watch:hover{
+  color: #e43091 !important;
+ }
+ .card{
+    color:black;
+ }
+ .middle li{
+    list-style-type: none;
+ }
+ footer{
+     margin: 20px;
+     height: 100%;
+ }
